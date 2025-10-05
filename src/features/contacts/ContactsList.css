@@ -1,0 +1,12 @@
+.list {
+  list-style: none;
+  padding: 0;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0;
+}
+button {
+  margin-left: 10px;
+}
